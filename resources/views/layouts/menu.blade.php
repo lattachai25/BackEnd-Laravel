@@ -35,31 +35,61 @@
           </li>          
           <li>
             <a href="#">
-              <i class="fa fa-home"></i>
-              <span>Home</span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i class="fa fa-life-ring"></i>
-              <span>About</span>
+              <i class="fa fa-globe"></i>
+              <span>Executive Board</span>
             </a>
           </li>
           <li class="sidebar-dropdown">
             <a href="#">
-              <i class="fa fa-shopping-cart"></i>
-              <span>Shoping</span>
-              <span class="badge badge-pill badge-warning">New</span>
+              <i class="fa fas fa-tasks"></i>
+              <span>Manager</span>
+              <span class="badge badge-pill badge-danger">3</span>
             </a>
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="#">Dashboard 1
-                    <span class="badge badge-pill badge-success">Pro</span>
+                  <a href="#">Overview Report</a>
+                </li>
+                <li>
+                  <a href="#">Overview Refill Board</a>
+                </li>
+                <li>
+                  <a href="#">In Order ( PO )
+                    <span class="badge badge-pill badge-warning">3</span>
                   </a>
                 </li>
                 <li>
-                  <a href="#">Dashboard 2</a>
+                  <a href="#">Revise PO
+                    <span class="badge badge-pill badge-warning">1</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">Order Confirmation
+                  <span class="badge badge-pill badge-success">3</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="#">Cancel Order</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li class="sidebar-dropdown">
+            <a href="#">
+              <i class="fa fa-asterisk"></i>
+              <span>Admin Coord</span>
+              <span class="badge badge-pill badge-danger">10</span>
+              <!-- <span class="badge badge-pill badge-warning">New</span> -->
+            </a>
+            <div class="sidebar-submenu">
+              <ul>
+                <li>
+                  <a href="#">In order
+                    <span class="badge badge-pill badge-warning">3</span>
+                  </a>
+                </li>
+                <li>
+                <a href="#">Customer List</a>
                 </li>
                 <li>
                   <a href="#">Dashboard 3</a>
@@ -70,27 +100,25 @@
 
           <li class="sidebar-dropdown">
             <a href="#">
-              <i class="fa fa-database"></i>
-              <span>Database</span>
+              <i class="fa fa-cubes"></i>
+              <span>Operation Depart</span>
               <span class="badge badge-pill badge-danger">3</span>
             </a>
             <div class="sidebar-submenu">
               <ul>
                 <li>
-                  <a href="#">Products
-
-                  </a>
+                  <a href="#">QC Products <span class="badge badge-pill badge-danger">3</span></a>
                 </li>
                 <li>
-                  <a href="#">Orders</a>
+                  <a href="#">Storage</a>
                 </li>
                 <li>
-                  <a href="#">Credit cart</a>
+                  <a href="#">Transport To Store</a>
                 </li>
               </ul>
             </div>
           </li>
-          <li class="sidebar-dropdown">
+          <!-- <li class="sidebar-dropdown">
             <a href="#">
               <i class="far fa-gem"></i>
               <span>Components</span>
@@ -152,8 +180,8 @@
                 </li>
               </ul>
             </div>
-          </li>
-          <li class="header-menu">
+          </li> -->
+          <!-- <li class="header-menu">
             <span>Extra</span>
           </li>
           <li>
@@ -176,7 +204,7 @@
             </a>
           </li>
         </ul>
-      </div>
+      </div> -->
       <!-- sidebar-menu  -->
     </div>
 
